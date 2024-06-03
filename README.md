@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This script automates video recording, processing, and conversion using OBS WebSocket, VLC, and Tkinter. It starts/stops OBS recordings, handles events, manages files, and compresses videos from `.mkv` to `.mp4`. A Tkinter GUI allows users to select output folders and track conversion progress.
+	This script automates video recording, processing, and conversion using OBS WebSocket, VLC, and Tkinter. It starts/stops OBS recordings, handles events, manages files, and compresses videos from `.mkv` to `.mp4`. A Tkinter GUI allows users to select output folders and track conversion progress. This script can operate in both network and local environments.
 
 ## Setting Up the Environment
 
