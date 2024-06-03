@@ -1,0 +1,5 @@
+{
+  "early_morning": "//path/to/your/network/destination",
+  "morning": "//path/to/your/network/destination",
+  "evening": "//path/to/your/network/destination"
+}
