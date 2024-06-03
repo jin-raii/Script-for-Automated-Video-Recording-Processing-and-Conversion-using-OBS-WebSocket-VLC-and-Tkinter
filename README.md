@@ -52,6 +52,9 @@ To modify the output paths, edit the options.json file. Change the paths to your
 ```
 This JSON file maps the keys shown on the GUI to the desired output paths. Make sure to provide the correct paths according to your system setup. It can be either on your network path or local path. 
 
+### Step 7: Change or Place Your Own Logo in ICO Format
+- Replace the default logo with your own logo in ICO format. Save the logo as `logo.ico` in the project directory.
+  
 ### Script Overview
 - This script provides an automated workflow for video recording, processing, and conversion using OBS WebSocket, VLC, and Tkinter. It facilitates the following:
 
